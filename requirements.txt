@@ -1,0 +1,13 @@
+# Additional Python packages for the custom Airflow image
+# Add your custom requirements here
+
+# Common packages that are often needed in Airflow environments
+pandas==2.1.4
+requests==2.31.0
+
+# Add any other packages your Airflow workflows might need
+# Example:
+# boto3==1.34.0  # For AWS integrations
+# google-cloud-storage==2.10.0  # For GCS integrations
+# kubernetes==28.1.0  # For Kubernetes integrations
+# psycopg2-binary==2.9.9  # For PostgreSQL (uncomment if needed)
