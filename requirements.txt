@@ -3,7 +3,7 @@
 
 # Common packages that are often needed in Airflow environments
 pandas==2.1.4
-requests==2.31.0
+requests==2.32.4
 
 # Add any other packages your Airflow workflows might need
 # Example:
