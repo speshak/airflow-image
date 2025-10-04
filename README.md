@@ -4,7 +4,7 @@ A customized Apache Airflow worker Docker image with additional tools and packag
 
 ## Features
 
-- Based on official Apache Airflow 2.8.1 with Python 3.11
+- Based on official Apache Airflow 3.0.2 Python 3.11
 - Additional system tools: build-essential, git, curl, vim
 - Common Python packages: pandas, requests
 - Configurable additional Python packages via requirements.txt
