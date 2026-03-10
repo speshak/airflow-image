@@ -10,6 +10,6 @@ apache-airflow-providers-postgres==6.3.0
 psycopg2-binary==2.9.9
 
 
-apache-airflow-providers-http==5.2.2
+apache-airflow-providers-http==6.0.0
 apache-airflow-providers-samba==4.11.0
 apache-airflow-providers-sftp==5.4.0
