@@ -3,7 +3,7 @@
 
 # Common packages that are often needed in Airflow environments
 pandas==2.1.4
-requests==2.32.4
+requests==2.33.0
 
 # Airflow providers for specific integrations
 apache-airflow-providers-postgres==6.3.0
